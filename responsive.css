@@ -1,0 +1,312 @@
+
+@media (max-width: 991px) {
+
+  .focal-menu-item ul li a{
+    font-size: 12px;
+    padding: 6px 6px;
+  }
+  .focal-indicator{
+    margin-left: 956px;
+  }
+  .about-img{
+    width: 550px;
+    height: auto;
+  }
+  .about-me-details{
+    padding-top: 30px;
+    margin-left: 150px;
+  }
+  .work{
+    margin-left: 0px;
+  }
+  .work-2{
+    margin-left: 0px;
+  }
+  .work-icon i{
+    font-size: 22px;
+  }
+  .work-title h6{
+    font-size: 14px;
+  }
+  .work-title p{
+    font-size: 12px;
+  }
+  .about-title h1{
+    font-size: 20px;
+  }
+  .about-title p{
+    font-size: 12px;
+  }
+  .skills-details{
+    margin-top: 60px;
+    margin-left: 40px;
+  }
+  .form input{
+    width: 400px;
+    margin-left: 18px;
+  }
+  .form textarea{
+    width: 400px;
+    margin-left: 18px;
+  }
+  .form label{
+    font-size: 13px;
+    margin-left: 20px;
+  }
+  .form button{
+    margin-left: 16px;
+   }
+
+}
+
+
+@media (max-width: 500px) {
+  .baneer-title h1{
+    font-size: 30px;
+   }
+   .baneer-title button{
+     width: 130px;
+     margin-left: 190px;
+   }
+   .focal-indicator{
+    margin-left: 456px;
+  }
+.focal-menu-item{
+    display: none;
+  }
+  .menu-bar-icon{
+    display: block;
+    text-align: right;
+    font-size: 30px;
+    margin-top: -50px;
+  }
+  .focal-body-description{
+    margin: 10px;
+    height: 280px;
+  }
+  .focal-body-description h2{
+    margin-bottom: 30px;
+  }
+  
+  .work{
+    margin-left: 100px;
+  }
+  .work-2{
+    margin-left: 100px;
+  }
+  .work-icon i{
+    font-size: 24px;
+  }
+  .work-title h6{
+    font-size: 15px;
+  }
+  .work-title p{
+    font-size: 12px;
+  }
+  .about-img{
+    width: 500px;
+  }
+  .about-title h1{
+    font-size: 25px;
+    margin-left: 255px;
+  }
+  .about-title p{
+    font-size: 15px;
+    margin-left: 100px;
+  }
+  .skills-discription{
+    margin-left: 20px;
+    padding-bottom: 5px;
+  }
+  .skills-details{
+    margin-left: 20px;
+  }
+
+  .education-discription{
+    margin-left: 10px;
+  }
+  .education-discription-2{
+    margin-left: 10px;
+  }
+  .education-details{
+    margin-left: 6%;
+   }
+   .education-details-2{
+    margin-left: 6%;
+   }
+  .portfolio-img{
+    margin-left: 35px;
+  }
+  .social-link{
+    width: 83%;
+    height: 83%;
+  }
+  .contact-title h1{
+    font-size: 25px;
+    margin-left: 10px;
+  }
+  .contact-title p{
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .contact-title h6{
+    font-size: 13px;
+    margin-left: 17px;
+  }
+  .contact-title h6 span{
+    color: #777777;
+    margin-left: 40px;
+  }
+  .form input{
+    width: 400px;
+    margin-left: 18px;
+  }
+  .form textarea{
+    width: 400px;
+    margin-left: 18px;
+  }
+  .form label{
+    font-size: 13px;
+    margin-left: 20px;
+  }
+  .form button{
+    margin-left: 16px;
+   }
+
+}
+
+
+@media (max-width: 320px) {
+ 
+  .baneer-title h1{
+   font-size: 20px;
+  }
+  .baneer-title button{
+    width: 130px;
+    margin-left: 90px;
+  }
+  .focal-indicator{
+    margin-left: 256px;
+  }
+  .about-img{
+    width: 320px;
+  }
+  .about-title h1{
+    font-size: 25px;
+    margin-left: 155px;
+  }
+  .about-title p{
+    font-size: 15px;
+    margin-left: 98px;
+  }
+  .work{
+    margin-left: 100px;
+  }
+  .work-2{
+    margin-left: 100px;
+  }
+  .work-icon i{
+    font-size: 24px;
+  }
+  .work-title h6{
+    font-size: 15px;
+  }
+  .work-title p{
+    font-size: 12px;
+  }
+  .focal-body-description{
+    margin: 10px;
+    height: 280px;
+  }
+  .focal-body-description h2{
+    margin-bottom: 30px;
+  }
+  .focal-menu-item{
+    display: none;
+  }
+  .menu-bar-icon{
+    display: block;
+    text-align: right;
+    font-size: 30px;
+    margin-top: -50px;
+  }
+  .skills-discription{
+    margin-left: 20px;
+    padding-bottom: 5px;
+  }
+  .skills-details{
+    margin-left: 20px;
+  }
+  .resume-title{
+    margin-left: 10px;
+  }
+  .education-discription{
+    margin-left: 20px;
+  }
+  .education-discription-2{
+    margin-left: 20px;
+  }
+  .education-discription-2 h1{
+    font-size: 25px;
+  }
+  .education-discription h1{
+    font-size: 25px;
+  }
+  .education-details{
+    margin-left: 8%;
+   }
+   .education-details-2{
+    margin-left: 8%;
+   }
+   .client-review p{
+    font-size: 12px;
+  }
+  .portfolio-title h1{
+    font-size: 25px;
+  }
+  .portfolio-title p{
+    font-size: 13px;
+    margin-left: 10px;
+  }
+  .portfolio-img{
+    margin-left: 13px;
+  }
+  .social-link{
+    width: 93%;
+    height: 78.3%;
+  }
+  .contact-title h1{
+    font-size: 25px;
+    margin-left: 15px;
+  }
+  .contact-title p{
+    font-size: 12px;
+    margin-left: 15px;
+  }
+  .contact-title h6{
+    font-size: 13px;
+    margin-left: 17px;
+  }
+  .contact-title h6 span{
+    color: #777777;
+    margin-left: 40px;
+  }
+  
+  
+  .form input{
+    width: 270px;
+    margin-left: 15px;
+  }
+  .form textarea{
+    width: 270px;
+    margin-left: 15px;
+  }
+  .form label{
+    font-size: 13px;
+    margin-left: 17px;
+  }
+  .form button{
+    margin-left: 16px;
+   }
+
+}
